@@ -25,5 +25,10 @@ public class ecom {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 		 
 	}
+	
+	public void git()
+	{
+		System.out.println("user 2");
+	}
 
 }
