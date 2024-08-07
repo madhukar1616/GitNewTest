@@ -29,6 +29,7 @@ public class ecom {
 	public void git()
 	{
 		System.out.println("user 2");
+		System.out.println("user 1");
 	}
 
 }
