@@ -30,11 +30,12 @@ public class ecom {
 	{
 		System.out.println("user 2");
 		System.out.println("user 1");
+		System.out.println("user merge");
 	}
 	
 	public void merge()
 	{
-		System.out.println("user 1+2");
+		
 		System.out.println("merge");
 	}
 
